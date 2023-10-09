@@ -1,0 +1,37 @@
+*{
+  background-color: #070C23;
+}
+.logo{
+  color: white;
+}
+.logo_name{
+  color: grey;
+}
+.Mavtrix{
+  color: white;
+  font-size: 100px;
+
+}
+.discription{
+  color: grey;
+}
+.join{
+  color: white;
+  background-color: blue;
+  border-radius: 2px;
+}
+.layout1{
+  width: 320px;
+  height: 250px;
+  z-index: 1;
+}
+.layout2{
+  width: 320px;
+  height: 250px;
+  z-index: 2;
+}
+.layout3{
+  width: 320x;
+  height: 250px;
+  z-index: 5;
+}
